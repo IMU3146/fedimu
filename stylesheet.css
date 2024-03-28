@@ -2,14 +2,14 @@ body{
     font-family: sans-serif;
 }
 .header{
-  background-color:skyblue;
+  background-color:#003366;
   height:90px;
 }
 .main{
-  background-color:lightblue;
+  background-color:#336699;
   height:600px;
 }
 .footer{
-  background-color:white;
+  background-color:#6699CC;
   height:270px;
 }
