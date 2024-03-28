@@ -1,2 +1,2 @@
 # IMU_site
-IMU_'s site
+html勉強中のimuがつくったサイトです
