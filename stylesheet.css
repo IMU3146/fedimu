@@ -1,4 +1,9 @@
-.title{
+body{
+	color:white;
+	background-color:black;
+}
+
+title{
 	color:blue;
 	background-color:black;
-	}
+}
