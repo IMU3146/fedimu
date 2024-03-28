@@ -1,9 +1,15 @@
 body{
-	color:white;
-	background-color:black;
+    font-family: sans-serif;
 }
-
-title{
-	color:blue;
-	background-color:black;
+.header{
+  background-color:#skyblue;
+  height:90px;
+}
+.main{
+  background-color:lightblue;
+  height:600px;
+}
+.footer{
+  background-color:#white;
+  height:270px;
 }
