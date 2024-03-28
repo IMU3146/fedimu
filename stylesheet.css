@@ -6,19 +6,24 @@ body{
     margin-top: -10px;
     padding-top: 1px;
     padding-bottom: 10px;
-    padding-left: 20px;
+    padding-left: 10px;
     background-color:#003366;
-    height:90px;
+    height:70px;
 }
 .main{
     margin-top: -20px;
-    padding-left: 20px;
+    padding-left: 10px;
     padding-top: 1px;
     background-color:#336699;
     height:600px;
 }
 .footer{
     margin-top: -20px;
-    background-color:#6699CC;
-    height:70px;
+    padding-top: 1px;
+    padding-left: 10px;
+    background-color:#003366;
+    height:100px;
+}
+a{
+    color: white;
 }
