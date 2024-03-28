@@ -2,7 +2,7 @@ body{
     font-family: sans-serif;
 }
 .header{
-  background-color:#skyblue;
+  background-color:skyblue;
   height:90px;
 }
 .main{
@@ -10,6 +10,6 @@ body{
   height:600px;
 }
 .footer{
-  background-color:#white;
+  background-color:white;
   height:270px;
 }
