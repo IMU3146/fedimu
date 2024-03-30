@@ -1,32 +1,38 @@
-body{
+body {
     font-family: serif;
-    color:white;
-}
-.home{
     color: white;
 }
-.header{
+.home {
+    color: white;
+}
+.header {
     margin-top: -10px;
     padding-top: 10px;
     padding-bottom: 20px;
     padding-left: 20px;
-    background-color:#003366;
-    height:100px;
+    background-color: #003366;
+    height: 100px;
 }
-.main{
+.main {
     margin-top: -20px;
     padding-left: 20px;
     padding-top: 1px;
-    background-color:#336699;
-    height:600px;
+    background-color: #336699;
+    height: 600px;
 }
-.footer{
+.footer {
     margin-top: -20px;
-    padding-top: 1px;
+    padding-top: 20px;
     padding-left: 20px;
-    background-color:#003366;
-    height:170px;
+    background-color: #003366;
+    height: 80px;
 }
-a{
+.github{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0 20px 20px -10;
+}
+a {
     color: white;
 }
