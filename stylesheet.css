@@ -10,21 +10,21 @@ body {
     padding-top: 10px;
     padding-bottom: 20px;
     padding-left: 20px;
-    background-color: #003366;
+    background-color: #333c5e;
     height: 100px;
 }
 .main {
     margin-top: -20px;
     padding-left: 20px;
     padding-top: 1px;
-    background-color: #336699;
+    background-color: #2c3248;
     height: 600px;
 }
 .footer {
     margin-top: -20px;
     padding-top: 20px;
     padding-left: 20px;
-    background-color: #003366;
+    background-color: #333c5e;
     height: 120px;
 }
 .github{
